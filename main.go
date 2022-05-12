@@ -218,7 +218,7 @@ func main() {
 	flag.Parse()
 
 	TEST = *test
-	log.Printf("STARTED: test=%t", TEST)
+	log.Printf("STARTED: \ntest=%t", TEST)
 
 	var providers RepositoryProviders
 	providers.github = NewGitHub(base64.StdEncoding.EncodeToString([]byte(*githubToken)))

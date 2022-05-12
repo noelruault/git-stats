@@ -2,7 +2,7 @@
 
 The purpose of this project is to create a graph with Github and Gitlab contributions from a specific time until now.
 
-<img src="out/images/example.png" width="500" />
+<img src="./out/images/lines.png" width="500" />
 
 > *Output example*
 
