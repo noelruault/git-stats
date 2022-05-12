@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "global": "^4.4.0",
+        "node-html-to-image-cli": "^1.1.0"
+    }
+}

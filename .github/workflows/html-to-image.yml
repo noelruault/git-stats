@@ -1,0 +1,27 @@
+name: Generate HTML charts and convert to images CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Go
+      uses: actions/setup-go@v3
+      with:
+        go-version: 1.18
+
+    - name: Run
+      run: go run *.go -test=false -gitlab.token=${{ secrets.GLAB_AUTH_TOKEN }} -gitlab.user=${{ secrets.GLAB_USER }} -github.token=${{ secrets.GHUB_AUTH_TOKEN }}
+
+    - name: Use npx
+      uses: mikeal/npx@1.0.0
+    - run: npm install -g node-html-to-image-cli
+
+    - name: Generate image from HTML file
+      run: npx node-html-to-image-cli out/charts/lines.html out/images/lines.png

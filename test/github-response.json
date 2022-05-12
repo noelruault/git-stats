@@ -1,0 +1,881 @@
+{
+    "data": {
+        "user": {
+            "name": "Noël Ruault",
+            "contributionsCollection": {
+                "totalCommitContributions": 26,
+                "totalIssueContributions": 0,
+                "totalPullRequestContributions": 1,
+                "totalPullRequestReviewContributions": 0,
+                "totalRepositoriesWithContributedCommits": 6,
+                "contributionCalendar": {
+                    "totalContributions": 33,
+                    "weeks": [
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 1,
+                                    "date": "2021-12-01",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-02",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-03",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-04",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 1,
+                                    "date": "2021-12-05",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-06",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-07",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-08",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-09",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-10",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-11",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 1,
+                                    "date": "2021-12-12",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-13",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-14",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-15",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-16",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-17",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-18",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 1,
+                                    "date": "2021-12-19",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-20",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-21",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-22",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-23",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-24",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-25",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-26",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-27",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-28",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-29",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-30",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2021-12-31",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 2,
+                                    "date": "2022-01-01",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 2,
+                                    "date": "2022-01-02",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-03",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-04",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-05",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-06",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-07",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-08",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 2,
+                                    "date": "2022-01-09",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-10",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-11",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-12",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-13",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-14",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-15",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 2,
+                                    "date": "2022-01-16",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-17",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-18",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-19",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-20",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-21",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-22",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 2,
+                                    "date": "2022-01-23",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-24",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-25",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-26",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-27",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-28",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-29",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 2,
+                                    "date": "2022-01-30",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-01-31",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 3,
+                                    "date": "2022-02-01",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-02",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-03",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-04",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-05",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 3,
+                                    "date": "2022-02-06",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-07",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-08",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-09",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-10",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-11",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-12",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 3,
+                                    "date": "2022-02-13",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-14",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-15",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-16",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-17",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-18",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-19",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 3,
+                                    "date": "2022-02-20",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-21",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-22",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-23",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-24",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-25",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-26",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 3,
+                                    "date": "2022-02-27",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-02-28",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-01",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-02",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-03",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-04",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-05",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-06",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-07",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-08",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-09",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-10",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-11",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-12",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-13",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-14",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-15",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-16",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-17",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-18",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-19",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-20",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-21",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-22",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-23",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-24",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-25",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-26",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-27",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-28",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-29",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 1,
+                                    "date": "2022-03-30",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-03-31",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-01",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-02",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 1,
+                                    "date": "2022-04-03",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 3,
+                                    "date": "2022-04-04",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-05",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-06",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-07",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-08",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-09",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-10",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-11",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 1,
+                                    "date": "2022-04-12",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-13",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-14",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 5,
+                                    "date": "2022-04-15",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 1,
+                                    "date": "2022-04-16",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-17",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-18",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 1,
+                                    "date": "2022-04-19",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-20",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 2,
+                                    "date": "2022-04-21",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-22",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 2,
+                                    "date": "2022-04-23",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 2,
+                                    "date": "2022-04-24",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 1,
+                                    "date": "2022-04-25",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 1,
+                                    "date": "2022-04-26",
+                                    "weekday": 2
+                                },
+                                {
+                                    "contributionCount": 2,
+                                    "date": "2022-04-27",
+                                    "weekday": 3
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-28",
+                                    "weekday": 4
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-29",
+                                    "weekday": 5
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-04-30",
+                                    "weekday": 6
+                                }
+                            ]
+                        },
+                        {
+                            "contributionDays": [
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-05-01",
+                                    "weekday": 0
+                                },
+                                {
+                                    "contributionCount": 0,
+                                    "date": "2022-05-02",
+                                    "weekday": 1
+                                },
+                                {
+                                    "contributionCount": 3,
+                                    "date": "2022-05-03",
+                                    "weekday": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

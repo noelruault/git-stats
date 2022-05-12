@@ -1,0 +1,9 @@
+
+### VisualStudioCode ###
+# Debugger
+__debug_bin
+
+
+### Node ###
+# Dependency directories
+node_modules/
