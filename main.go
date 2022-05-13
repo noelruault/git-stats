@@ -54,7 +54,7 @@ func buildLineChart(providers *RepositoryProviders, since time.Time) {
 
 	toLine(&contributionMap)
 
-	htmlToImage()
+	// htmlToImage()
 	allStats.Print()
 }
 
