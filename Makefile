@@ -11,6 +11,9 @@ help:
 install:
 	yarn install
 
-run:
-	go run *.go -test=false # -gitlab.token="" -github.token="" -gitlab.user=""
+build:
+	go build -o bin/git-stats
+
+run: build
+	./bin/git-stats -test=false # -gitlab.token="" -github.token="" -gitlab.user=""
 	npx node-html-to-image-cli out/charts/lines.html out/images/lines.png
