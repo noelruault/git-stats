@@ -1,5 +1,7 @@
 # git stats
 
+<img src="https://img.shields.io/badge/status-development-yellowgreen"/></a>
+
 The purpose of this project is to create a graph with Github and Gitlab contributions from a specific time until now.
 
 <img src="./out/images/lines.png" width="500" />
