@@ -7,3 +7,7 @@ __debug_bin
 ### Node ###
 # Dependency directories
 node_modules/
+
+### Golang ###
+# Binaries
+bin/

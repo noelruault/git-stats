@@ -16,13 +16,17 @@ jobs:
       with:
         go-version: 1.18
 
+    - name: Build
+      run : |
+        go build -o bin/git-stats
+
     - name: Run
       env:
         GLAB_USER: ${{ secrets.GLAB_USER }}
         GLAB_AUTH_TOKEN: ${{ secrets.GLAB_AUTH_TOKEN }}
         GHUB_AUTH_TOKEN: ${{ secrets.GHUB_AUTH_TOKEN }}
       run: |
-        go run *.go -test=false -gitlab.user=$GLAB_USER -gitlab.token=$GLAB_AUTH_TOKEN -github.token=$GHUB_AUTH_TOKEN
+        ./bin/git-stats -test=false -gitlab.user=$GLAB_USER -gitlab.token=$GLAB_AUTH_TOKEN -github.token=$GHUB_AUTH_TOKEN
 
     - name: Use npx
       uses: mikeal/npx@1.0.0
